@@ -61,8 +61,8 @@ nav ul li{
     
 }
 h3,h1,p{
-    padding: 3px 0 ;
     
+    padding: 3px 0 ;
 }
 h3{
     color: var(--text);
@@ -74,7 +74,7 @@ p{
     font-size: 15px;
     color: var(--gray);
 }
-.details h1{
+h1{
     color: white;
 }
 .bn{
@@ -90,8 +90,6 @@ p{
     padding: 10px;
     margin-top: 20px;
     cursor: pointer;
-    text-shadow: 10px 10px 8px #000000;
-    box-shadow: 10px 10px 8px #000000;
 }
 
 .about{
@@ -154,146 +152,8 @@ p{
 }
 
 .work-data img{
-    height: 11vh;
-    width: auto;
-}
-.work-data h3{
-    color: var(--gray);
-    font-size: 30px;
-    font-weight: bold;
-}
-.background{
-    margin-top: 100px;
-    background: url(../Assets/logo/alinenok-G9vRDGA46FY-unsplash.png);
-    background-size: cover;
-}
-.available{
-    margin-top: 100px;
-    background: url(../Assets/logo/Path3.png);
-    background-size: cover;
-}
-
-.data-2{
-    padding: 245px;
-    align-items: center;
-}
-.data-2 .h-2{
-    color: white;
-    font-size: 40px;
-    font-weight: bolder;
-}
-
-.p-2{
-    padding: 20px;
-    color: white;
-    font-size: 18px;
-    text-align: center;
-}
-
-.container .data-2 .btn-2{
-    padding:5 60px;
-    position: relative;
-    left: 40%;
-    top: 20px;
-    box-shadow: 5px 5px 8px #000000;
-}
-
-.clints{
-    margin-top: 100px;
-    background: rgba(139, 134, 135, 0.253);
-}
-
-.data-3{
-    text-align: center;
-    padding: 50px;
-}
-
-.data-3 img{
-    height: 20vh;
-    width: auto;
-    padding: 30px;
-}
-.data-3 .social img{
-    height: 5vh;
-    width: auto;
-}
-.data-3 h2{
-    color: rgb(70, 67, 67);
-    padding-bottom: 30px;
-}
-.data-3 h1{
-    color: rgb(70, 67, 67);
-    text-shadow: 5px 5px 8px #000000;
-}
-.data-3 p{
-    color: rgb(70, 67, 67);
-}
-
-.carowsel{
-    margin-top: 100px;
-    background: url(../Assets/logo/Path\ 4.png);
-    background-size: cover;
-}
-.carowsel .data{
-    align-items: center;
-    padding: 200px 0;
-    
-}
-.data .item{
-    background: white;
-    margin: 0 20px;
-    width: 250px;
-    height: auto;
-    box-shadow: 3px 3px 8px #000000;
-}
-
-.carowsel .data .item img{
-    
-    width: 250px;
-    height: auto;
-}
-
-.contact{
-    margin-top: 100px;
-    align-items: center;
-    background-color:rgba(139, 134, 135, 0.253) ;
-}
-
-.insert-data{
-    padding: 100px;
-    display: inline-block;
-    text-align: center;
-}
-#firstname,#lastname{
-    padding-right: 300px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-    
-}
-input,textarea{
-    border: none;
-    border-radius: 10px;
-    list-style-type: none;
-}
-
-footer{
-    margin-top: 100px;
-    background-color: rgb(54, 53, 53);
-}
-.row-2{
-    text-align: center;
-}
-.row-23{
-    margin-bottom: 2px;
-    text-align: center;
-}
-.conta{
-    padding: 50px 0;
-}
-.row-2 img{
-    width: 15%;
-    height: auto;
+    height: 106px;
+    width: 187px;
 }
 
 
