@@ -1,0 +1,28 @@
+:root{
+    --dark-blue: #3D5175;
+    --button: #49E9E4;
+    --text: #34F2E5;
+    --gray:#908e8e;
+    --linkedin:#348DF2;
+    --twitter:#22E2E9;
+}
+
+.btn{
+    padding:10px 25px;
+    background-color: var(--button);
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.container{
+    margin: 0 100px;
+}
+
+img .linked{
+    color: var(--linkedin);
+}
+
